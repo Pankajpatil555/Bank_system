@@ -1,6 +1,9 @@
-.container{
-    border: 2px solid green;
+
+
+#header{
+    background: pink;
 }
-.admin_form{
-    margin-left: 120px;
+#admin_col{
+  margin-top: 151px;
+
 }
