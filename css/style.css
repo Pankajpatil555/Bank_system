@@ -9,3 +9,6 @@
 .col,h1{
     font-size: 45px;
 }
+.col-sm-3 {
+    position: relative;top: 200px;
+}
