@@ -1,11 +1,11 @@
-.container{
+.container-fluid{
     border: blue;
 }
 
 #header{
     background: pink;
 }
-#admin_col{
-  margin-top: 151px;
 
+.col,h1{
+    font-size: 45px;
 }
