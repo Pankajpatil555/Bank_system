@@ -1,5 +1,6 @@
 .container-fluid{
-    border: blue;
+    background-color: orange;
+    height: 300px;
 }
 
 #header{
@@ -10,8 +11,11 @@
     font-size: 45px;
 }
 .col-sm-3 {
-    position: relative;top: 200px;
+    position: relative;top: 20px;
 }
 .form{
     padding-left: 25px;
+}
+.h1{
+    font-size: 45px;
 }
